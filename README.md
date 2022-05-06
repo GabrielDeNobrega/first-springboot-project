@@ -24,7 +24,7 @@
 <p align="center" width="100%">
   
   <br>
-  <a href="https://www.youtube.com/watch?v=D4frmIHAxEY&list=PL0yZZpLENrP5tK1X3avyHTw7d2Dhkd-AJ&index=7&t=1091s" align="center">
+  <a href="https://www.youtube.com/watch?v=D4frmIHAxEY&t=1091s" align="center">
     <img width="800" align="center" src="https://i.ytimg.com/vi/D4frmIHAxEY/maxresdefault.jpg"/>
   </a>
 </p>
